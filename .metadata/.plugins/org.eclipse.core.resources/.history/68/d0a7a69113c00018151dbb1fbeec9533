@@ -1,0 +1,21 @@
+package me.allan.ressources;
+
+import javafx.scene.Parent;
+import javafx.stage.Stage;
+
+public class DameMap extends Parent{
+	
+	/*
+	 * Creation de la grille de jeu de dame
+	 * 
+	 * @param stage mettre la grille sur quelle fenetre
+	 */
+	
+	public DameMap(Stage stage) {
+		
+		for(byte i = 1; i <= 10; i++)
+		{
+			
+		}
+	}
+}

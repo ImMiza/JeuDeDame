@@ -1,0 +1,8 @@
+package me.allan.ressources;
+
+import javafx.scene.Parent;
+
+public class DameMap extends Parent{
+
+	
+}

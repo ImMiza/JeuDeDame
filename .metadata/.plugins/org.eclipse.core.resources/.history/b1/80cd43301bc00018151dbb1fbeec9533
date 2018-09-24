@@ -1,0 +1,10 @@
+package me.allan.ressources;
+
+import javafx.scene.Parent;
+
+public class Pion extends Parent{
+
+	public Pion() {
+		
+	}
+}
